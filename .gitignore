@@ -1,0 +1,19 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+
+# Visual Studio / MonoDevelop generated folders
+ExportedObj/
+Packages/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
+
+# Other
+*.DS_Store
+Thumbs.db
